@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss>
+    <item>
+        <title>Facebook</title>
+        <link>https://www.facebook.com</link>
+    </item>
+    <item>
+        <title>Twitter</title>
+        <link>https://www.twitter.com</link>
+    </item>
+    <item>
+        <title>Google</title>
+        <link>https://www.google.com</link>
+    </item>
+</rss>
